@@ -6,11 +6,11 @@ It is a public repository. The main repository containing the project code is pr
 url for the main repo : https://github.com/PrasadAroskar/Spreadsheet
 
 
-Purpose:
+# Purpose:
 The main aim of the project is to create a spreadsheet similar to a Microsoft excel sheet/ Google sheet. The project has basic functionality for performing mathematical operations on the cells. The project is developed with the primary purpose of demonstrating RxJS observables. Efforts have been made to keep a simple and pleasant user interface similar to that of Microsoft excel sheet keeping the colors in shades of green and white.
 
 
-Functionality:
+# Functionality:
 •	As a user, I should be able to add rows to the spreadsheet using a plus button. 
 •	As a user, I should be able to add columns to the spreadsheet using a plus button. 
 •	As a user, I should be able to delete rows on the spreadsheet using a minus button. 
@@ -22,7 +22,7 @@ Functionality:
 •	As a user, I should be able to load a CSV from the node server by clicking a load button.
 
 
-Technologies used:
+# Technologies used:
 •	Javascript
 •	RxJS
 •	HTML
